@@ -4,3 +4,5 @@ print('good bye world')
 
 print('Chau mundo')
 
+print(1+2+3)
+
